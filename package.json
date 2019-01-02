@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder_hw11",
+  "version": "1.0.0",
+  "description": "Friend Finder App",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsoeltan/FriendFinder_HW11.git"
+  },
+  "author": "Nafisa Soeltan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsoeltan/FriendFinder_HW11/issues"
+  },
+  "homepage": "https://github.com/nsoeltan/FriendFinder_HW11#readme"
+}
